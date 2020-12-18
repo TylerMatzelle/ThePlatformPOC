@@ -1,0 +1,72 @@
+.h1 {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2%;
+
+}
+
+.body {
+    background-color: magenta;
+}
+
+
+.headerHome{
+    display:flex;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+
+.searchBar{
+    background: lightblue;
+    margin-right: 45%;
+}
+.profileBar{
+    background: darkblue;
+
+}
+
+.buttonNewPopular {
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+    
+}
+
+
+
+
+.articleImg {
+    border-radius: 20px;
+
+    font-size: 200%;
+    max-width: 100%;
+
+    display: flex;
+    justify-content: center;
+    background-color: cadetblue;
+    border: black solid 2px;
+    margin-top: .7%;
+    margin-bottom: .7%;
+        
+}
+
+.articleTitle{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+.articleButtonBanner {
+    display: flex;
+    justify-content: center;
+    max-height: 25%;
+    max-height: 25%;
+    background-color: rgb(60, 197, 151);
+    border: black solid px;
+    margin-bottom: 3%;
+    border-radius: 25px;
+}
